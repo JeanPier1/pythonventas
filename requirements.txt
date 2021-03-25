@@ -21,7 +21,7 @@ public==2019.4.13
 pyrsistent==0.15.2
 Python-EasyConfig==0.1.7
 pytz==2019.1
-PyYAML==5.1.1
+PyYAML==5.4
 query-string==2019.4.13
 request==2019.4.13
 requests==2.22.0
